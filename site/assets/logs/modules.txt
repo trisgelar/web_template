@@ -23,3 +23,90 @@
 2018-07-05 08:34:13	?	?	Saved module 'SystemUpdater' config data
 2018-07-05 08:34:13	?	?	Saved module info caches
 2018-07-05 08:34:14	guest	http://dsloker.tes/http404/	Saved module 'SystemUpdater' config data
+2018-07-05 08:50:02	admin	http://dsloker.tes/admin/module/	Installed module 'InputfieldCommentsAdmin'
+2018-07-05 08:50:02	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypeComments'
+2018-07-05 08:50:02	admin	http://dsloker.tes/admin/module/	Installed module 'CommentFilterAkismet'
+2018-07-05 08:50:03	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:50:11	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypeCache'
+2018-07-05 08:50:11	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:50:20	admin	http://dsloker.tes/admin/module/	Saved module 'FieldtypeRepeater' config data
+2018-07-05 08:50:20	admin	http://dsloker.tes/admin/module/	Installed module 'InputfieldRepeater'
+2018-07-05 08:50:20	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypeRepeater'
+2018-07-05 08:50:20	admin	http://dsloker.tes/admin/module/	Saved module 'FieldtypeFieldsetPage' config data
+2018-07-05 08:50:20	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypeFieldsetPage'
+2018-07-05 08:50:21	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:50:26	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypeNotifications'
+2018-07-05 08:50:49	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:50:54	admin	http://dsloker.tes/admin/module/	Installed module 'FileCompilerTags'
+2018-07-05 08:50:55	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:50:55	admin	http://dsloker.tes/admin/module/	Deleted module 'Helloworld'
+2018-07-05 08:51:08	admin	http://dsloker.tes/admin/module/	Saved module 'InputfieldPage' config data
+2018-07-05 08:51:08	admin	http://dsloker.tes/admin/module/	Installed module 'InputfieldPageAutocomplete'
+2018-07-05 08:51:08	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:51:12	admin	http://dsloker.tes/admin/module/	Installed module 'InputfieldPageTable'
+2018-07-05 08:51:12	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypePageTable'
+2018-07-05 08:51:28	admin	http://dsloker.tes/admin/module/	Installed module 'MarkupPageFields'
+2018-07-05 08:51:28	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:51:28	admin	http://dsloker.tes/admin/module/?Notifications=update&time=1530755481	Saved module info caches
+2018-07-05 08:51:30	admin	http://dsloker.tes/admin/module/	Installed module 'MarkupRSS'
+2018-07-05 08:53:28	admin	http://dsloker.tes/humans.txt	Saved module info caches
+2018-07-05 08:53:51	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypeOptions'
+2018-07-05 08:53:51	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:54:13	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypeSelector'
+2018-07-05 08:54:13	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:54:25	admin	http://dsloker.tes/admin/module/	Installed module 'MarkupCache'
+2018-07-05 08:54:25	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:54:32	admin	http://dsloker.tes/admin/module/	Installed module 'PagePathHistory'
+2018-07-05 08:54:33	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:54:35	admin	http://dsloker.tes/admin/module/	Installed module 'PagePaths'
+2018-07-05 08:54:35	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:54:37	admin	http://dsloker.tes/admin/module/	Installed module 'ProcessCommentsManager'
+2018-07-05 08:55:28	admin	http://dsloker.tes/	Saved module info caches
+2018-07-05 08:55:53	admin	http://dsloker.tes/admin/module/	Installed module 'ProcessPageClone'
+2018-07-05 08:55:53	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:56:05	admin	http://dsloker.tes/admin/module/	Installed module 'ProcessPagesExportImport'
+2018-07-05 08:56:05	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:56:15	admin	http://dsloker.tes/admin/module/	Installed module 'ProcessSessionDB'
+2018-07-05 08:56:15	admin	http://dsloker.tes/admin/module/	Installed module 'SessionHandlerDB'
+2018-07-05 08:56:37	admin	http://dsloker.tes/admin/module/	Installed module 'TextformatterMarkdownExtra'
+2018-07-05 08:56:38	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:56:50	admin	http://dsloker.tes/admin/module/	Installed module 'TextformatterStripTags'
+2018-07-05 08:56:50	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:57:00	admin	http://dsloker.tes/admin/module/	Installed module 'TextformatterSmartypants'
+2018-07-05 08:57:01	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 08:57:10	admin	http://dsloker.tes/admin/module/	Installed module 'ProcessForgotPassword'
+2018-07-05 08:57:11	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 09:11:08	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:11:15	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:11:57	admin	http://dsloker.tes/admin/module/	Installed module 'AllInOneMinify'
+2018-07-05 09:11:57	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 09:12:17	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:12:19	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:12:24	admin	http://dsloker.tes/admin/module/	Saved module 'TemplateEngineFactory' config data
+2018-07-05 09:12:24	admin	http://dsloker.tes/admin/module/	Installed module 'TemplateEngineProcesswire'
+2018-07-05 09:12:24	admin	http://dsloker.tes/admin/module/	Installed module 'TemplateEngineFactory'
+2018-07-05 09:12:24	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 09:12:40	admin	http://dsloker.tes/admin/module/edit?name=TemplateEngineFactory	Saved module 'TemplateEngineFactory' config data
+2018-07-05 09:13:01	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:13:02	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:13:06	admin	http://dsloker.tes/admin/module/	Installed module 'TextformatterVideoEmbed'
+2018-07-05 09:13:07	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 09:14:24	admin	http://dsloker.tes/admin/module/edit?name=TextformatterVideoEmbed	Saved module 'TextformatterVideoEmbed' config data
+2018-07-05 09:14:56	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:14:57	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:15:01	admin	http://dsloker.tes/admin/module/	Installed module 'MaintenanceMode'
+2018-07-05 09:15:01	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 09:15:48	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:15:57	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:16:50	admin	http://dsloker.tes/admin/module/	Saved module 'TemplateEngineFactory' config data
+2018-07-05 09:16:50	admin	http://dsloker.tes/admin/module/	Installed module 'TemplateEngineSmarty'
+2018-07-05 09:16:50	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 09:17:09	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:17:10	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:22:34	admin	http://dsloker.tes/admin/module/	Installed module 'Blackhole'
+2018-07-05 09:22:34	admin	http://dsloker.tes/admin/module/	Saved module info caches
+2018-07-05 09:22:55	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:22:57	admin	http://dsloker.tes/admin/module/download/	Saved module info caches
+2018-07-05 09:24:07	admin	http://dsloker.tes/admin/module/	Installed module 'InputfieldMatrix'
+2018-07-05 09:24:07	admin	http://dsloker.tes/admin/module/	Installed module 'FieldtypeMatrix'
+2018-07-05 09:24:07	admin	http://dsloker.tes/admin/module/	Saved module info caches
