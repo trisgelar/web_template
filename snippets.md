@@ -185,4 +185,5 @@
     composer require czubehead/bootstrap-4-forms --prefer-dist -vvv
     composer require nesbot/carbon --prefer-dist -vvv
     composer require gregwar/captcha --prefer-dist -vvv
+    composer require pagerfanta/pagerfanta "1.1.0.*" --prefer-dist -vvv
 ```
