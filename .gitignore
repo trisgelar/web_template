@@ -28,3 +28,5 @@ upgrade.php
 *.css.map
 wire/modules/AdminTheme/AdminThemeDefault/styles/sass/*.css
 wire/modules/Jquery/JqueryMagnific/JqueryMagnific.min.js
+vendor/*
+composer.lock

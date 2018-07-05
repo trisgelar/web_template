@@ -1,3 +1,3 @@
 <?php
 
-include("./basic-page.php"); 
+// $view->set('footer_menu', getFooterMenu());
