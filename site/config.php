@@ -97,3 +97,6 @@ $config->installed = 1530754343;
  */
 $config->httpHosts = array('dsloker.tes', 'www.dsloker.tes');
 
+$config->pageNumUrlPrefix = 'page';
+$config->prependTemplateFile = '_init.php';
+$config->appendTemplateFile = '';
